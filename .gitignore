@@ -58,8 +58,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
-*.unitypackage
-*.unitypackage.meta
 [Aa]ssets/BuildReports/
 [Aa]ssets/BuildReports.meta
 [Aa]ssets/StreamingAssets/build_info
